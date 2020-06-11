@@ -1,4 +1,4 @@
-1.先克隆一下文件 
+1.先克隆一下文件  
 git clone + "克隆的网站地址"
 
 例如：git clone https://rdc.hand-china.com/gitlab/20770/git-tutorial.git
