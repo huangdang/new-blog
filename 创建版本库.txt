@@ -3,9 +3,12 @@ git init
 
 把文件放到git仓库只需两步：
 1、把文件放添加到git仓库
-     git add git.txt    添加一个文件
-     git add git.txt git1.txt   添加多个文件
-     git add .   添加全部文件
+     git add git.txt     添加一个文件
+     git add git.txt git1.txt     添加多个文件
+     git add -A .     添加所有改变的文件
+     git add -A     添加所有内容
+     git add .     表示添加新的文件和编辑过的文件，不包括删除的文件
+     git add -u     添加编辑或者删除的文件，不包括新添加的文件
 
 2、git commit -m"new git"
 
