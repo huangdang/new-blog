@@ -3,7 +3,7 @@ git clone + "克隆的网站地址"
 
 例如：git clone https://rdc.hand-china.com/gitlab/20770/git-tutorial.git
 
-2.新建文件夹
+2.新建文件夹0
 mkdir + "名字"  在当前目录新建一个文件夹
 
 例如：mkdir srm-20770
