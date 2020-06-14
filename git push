@@ -1,0 +1,55 @@
+[33mcommit cd5e82518ac47fe50a98855896ba8faa9aee48cd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3041299 9ff4c19
+Author: huangdang <huangdang132465@16..com>
+Date:   Sat Jun 13 14:19:48 2020 +0800
+
+    merge with on-ff
+
+[33mcommit 9ff4c19ac6d8ca87dbb4000d25316ad75372b74d[m[33m ([m[1;32mdev[m[33m)[m
+Author: huangdang <huangdang132465@16..com>
+Date:   Sat Jun 13 14:17:01 2020 +0800
+
+    add merge
+
+[33mcommit 30412991731d3f49432d1ccff0e3276d848d1185[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: dd4e464 c158da2
+Author: huangdang <huangdang132465@16..com>
+Date:   Sat Jun 13 11:35:02 2020 +0800
+
+    分支冲突已解决
+
+[33mcommit dd4e46407d827bbcd6be9b64cc9c878558f8825d[m
+Author: huangdang <huangdang132465@16..com>
+Date:   Sat Jun 13 11:25:22 2020 +0800
+
+    提交哦了
+
+[33mcommit c158da244f446684c3b334704bc8140a4b9b99f1[m
+Author: huangdang <huangdang132465@16..com>
+Date:   Sat Jun 13 11:21:42 2020 +0800
+
+    new branch
+
+[33mcommit 2f449267e1b4e082f48fe2ee20bde504d4731392[m
+Author: huangdang <huangdang132465@16..com>
+Date:   Sat Jun 13 11:08:14 2020 +0800
+
+    branch index
+
+[33mcommit 89b79d805fd5e84c9aa53e259cc71e41d89bf715[m
+Author: huangdang <huangdang132465@16..com>
+Date:   Thu Jun 11 14:47:34 2020 +0800
+
+    测试
+
+[33mcommit 1707fb0776e20601685f47f9e3ce37a0b0c3daf4[m
+Author: huangdang <huangdang132465@16..com>
+Date:   Thu Jun 11 14:43:31 2020 +0800
+
+    测试
+
+[33mcommit ba01f7a46a0a7d5ef18ccc7a47723807c9d90c5f[m
+Author: huangdang <huangdang132465@16..com>
+Date:   Thu Jun 11 14:40:43 2020 +0800
+
+    测试

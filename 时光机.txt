@@ -1,0 +1,21 @@
+查看状态
+git status
+
+查看具体修改内容
+git diff index.txt
+
+查看日志
+git log
+git log --pretty=oneline
+
+版本回退
+git reset --hard HEAD^
+
+命令窗口还没关，可以还原已回退的版本
+git reset --hard 1095   log日志前面6位数即可
+
+查看命令历史，以便确定要回到未来的哪个版本
+git reflog
+
+commit前发现错误可以在工作区修改全部撤销
+git checkout --index.txt
